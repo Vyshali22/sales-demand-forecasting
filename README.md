@@ -8,6 +8,8 @@ An end-to-end Data Science project that performs **Exploratory Data Analysis (ED
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+🎯 Achieved R² = 0.9884 (98.84% accuracy) using Random Forest — built end-to-end independently.
+
 ---
 
 ## 🚀 Live Demo
