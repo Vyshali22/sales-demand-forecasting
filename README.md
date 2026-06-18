@@ -63,7 +63,7 @@ sales-demand-forecasting/
 
 | Model | MAE | R² Score |
 |-------|-----|----------|
-| Linear Regression | - | ~0.97 |
+| Linear Regression | - | ~0.82 |
 | Random Forest | - | **0.9884** ✅ |
 
 **Best Model: Random Forest Regressor** with 98.84% accuracy
