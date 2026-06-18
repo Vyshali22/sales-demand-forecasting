@@ -107,6 +107,6 @@ streamlit run app/app.py
 
 ## 👩‍💻 Author
 
-**Vyshali** — Fresher | Python | Data Science | Java | Spring Boot  
+**Vyshali Turpati** — IT Graduate | Python | Data Science | Java | Spring Boot  
 📍 Hyderabad, India  
 🔗 [GitHub](https://github.com/Vyshali22) | [LinkedIn](https://linkedin.com/in/vyshali22)
