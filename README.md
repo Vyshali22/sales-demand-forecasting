@@ -102,6 +102,7 @@ streamlit run app/app.py
 - Monthly Revenue Trend
 - Top 10 Products
 - Live Revenue Predictor
+- Reviewed forecasting model accuracy results
 
 ---
 
